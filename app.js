@@ -33,3 +33,14 @@
 // for(let i = 0; i<boxes.length; i++) {
 //     boxes[i].classList.add('round-border');
 // }
+
+// const mybody = document.body;
+// mybody.style.backgroundColor = 'yellow'
+
+
+// const box1 = document.querySelector('.box');
+// console.log(box1);
+
+// const box2 = document.getElementById('box-2');
+// console.log(box2);
+//  box2.innerHTML = 'shah';
