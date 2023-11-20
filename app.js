@@ -103,3 +103,12 @@
         //     // Display the items in an alert window
         //     alert(itemsString);
         // }
+
+
+
+// let nodeToAdd = document.createElement('ul');
+// let textNode = document.createTextNode('<li></li>');
+// let li = document.createElement('li');
+
+// console.log(nodeToAdd);
+// console.log(li);
