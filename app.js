@@ -53,3 +53,31 @@
 
 // document.write("<p>Lorem ipsum dolor sit amet <strong>CONSECTUS</strong> adipisicing elit. Rerum repudiandae omnis <b>mollitia</b'> beatae <strong>HTML</strong> cupiditate eligendi ad obcaecati nobis odit perspiciatis.</p>");
 
+// ASSIGNMENT 3 (b) :
+
+        // document.addEventListener("DOMContentLoaded", function() {
+        //     // Get the paragraph element
+        //     var paragraph = document.querySelector("p");
+
+        //     // Add mouseover event listener
+        //     paragraph.addEventListener("mouseover", function() {
+        //         // Get all strong elements within the paragraph
+        //         var boldWords = paragraph.querySelectorAll("strong");
+
+        //         // Add a class to each bold word to change its style
+        //         boldWords.forEach(function(boldWord) {
+        //             boldWord.classList.add("highlight");
+        //         });
+        //     });
+
+        //     // Add mouseout event listener to reset the style
+        //     paragraph.addEventListener("mouseout", function() {
+        //         // Get all strong elements within the paragraph
+        //         var boldWords = paragraph.querySelectorAll("strong");
+
+        //         // Remove the class from each bold word to reset its style
+        //         boldWords.forEach(function(boldWord) {
+        //             boldWord.classList.remove("highlight");
+        //         });
+        //     });
+        // });
