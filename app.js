@@ -44,3 +44,12 @@
 // const box2 = document.getElementById('box-2');
 // console.log(box2);
 //  box2.innerHTML = 'shah';
+
+
+
+// DOM :
+
+// ASSIGNMENT 3 :
+
+// document.write("<p>Lorem ipsum dolor sit amet <strong>CONSECTUS</strong> adipisicing elit. Rerum repudiandae omnis <b>mollitia</b'> beatae <strong>HTML</strong> cupiditate eligendi ad obcaecati nobis odit perspiciatis.</p>");
+
