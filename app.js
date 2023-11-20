@@ -105,6 +105,7 @@
         // }
 
 
+// WRONG ;
 
 // let nodeToAdd = document.createElement('ul');
 // let textNode = document.createTextNode('<li></li>');
@@ -112,3 +113,4 @@
 
 // console.log(nodeToAdd);
 // console.log(li);
+
