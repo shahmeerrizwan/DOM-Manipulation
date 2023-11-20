@@ -81,3 +81,25 @@
         //         });
         //     });
         // });
+
+
+        // ASSIGNMENT 4 :
+
+        // function countAndDisplayItems() {
+        //     // Get the dropdown list element
+        //     var dropdown = document.getElementById("dropdown");
+
+        //     // Get the number of items in the dropdown list
+        //     var itemCount = dropdown.options.length;
+
+        //     // Prepare a string to display the items
+        //     var itemsString = "Items in the dropdown list:\n";
+
+        //     // Loop through the options and add each item to the string
+        //     for (var i = 0; i < itemCount; i++) {
+        //         itemsString += (i + 1) + ". " + dropdown.options[i].text + "\n";
+        //     }
+
+        //     // Display the items in an alert window
+        //     alert(itemsString);
+        // }
