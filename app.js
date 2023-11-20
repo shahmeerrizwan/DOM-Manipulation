@@ -114,3 +114,9 @@
 // console.log(nodeToAdd);
 // console.log(li);
 
+const input = document.querySelector('#todo');
+
+function addTodo(){
+        console.log(input.value);
+        input.value = ''
+}
